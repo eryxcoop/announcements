@@ -1,5 +1,5 @@
-from fluence.libs.announcements.announcement_subscription import AnnouncementSubscription
-from fluence.libs.announcements.subscription_registry import SubscriptionRegistry
+from src.announcement_subscription import AnnouncementSubscription
+from src.subscription_registry import SubscriptionRegistry
 
 
 class Announcer:

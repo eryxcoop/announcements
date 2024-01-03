@@ -1,4 +1,4 @@
-from fluence.libs.announcements.announcements import Announcement
+from src.announcements import Announcement
 
 
 class Announced:

@@ -1,4 +1,4 @@
-from fluence.libs.announcements.tests.mocks import Announced, AnnouncementMockA, AnnouncementMockB
+from tests.mocks import AnnouncementMockB, Announced, AnnouncementMockA
 
 
 class TestAnnouncer:
