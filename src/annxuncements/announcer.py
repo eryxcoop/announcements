@@ -1,5 +1,5 @@
-from src.announcement_subscription import AnnouncementSubscription
-from src.subscription_registry import SubscriptionRegistry
+from .announcement_subscription import AnnouncementSubscription
+from .subscription_registry import SubscriptionRegistry
 
 
 class Announcer:

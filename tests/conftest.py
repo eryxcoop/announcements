@@ -1,6 +1,6 @@
 import pytest
 
-from src.announcer import Announcer
+from src import Announcer
 
 
 @pytest.fixture
