@@ -2,3 +2,5 @@
 build/
 dist/
 src/annxuncements.egg-info/
+src/annxuncements/__pycache__/
+.pypirc

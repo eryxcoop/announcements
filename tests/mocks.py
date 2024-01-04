@@ -1,4 +1,4 @@
-from src import Announcement
+from src.annxuncements import Announcement
 
 
 class Announced:
